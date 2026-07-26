@@ -5,7 +5,7 @@ DB_CONFIG = {
     "host": "localhost",
     "user": "root",       # Your MySQL username
     "password": "2505",   # Your MySQL password
-    "database": "student_db"
+    "database": "expense_db"
 }
 
 def get_db_connection():
